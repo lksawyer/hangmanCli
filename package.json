@@ -1,0 +1,22 @@
+{
+  "name": "hangmancli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hangmanCli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lksawyer/hangmanCli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lksawyer/hangmanCli/issues"
+  },
+  "homepage": "https://github.com/lksawyer/hangmanCli#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
